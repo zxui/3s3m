@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 	Header Styles 
 --------------------------------------------------------*/
 .top-header {
-  background: #C1B2B2;
+  background: #E3722E;
   color: white;
   padding: 10px 0;
 }
@@ -535,7 +535,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------*/
 .site-footer {
   margin-top: 100px;
-  background-color: #C1B2B2;
+  background-color: #E3722E;
   color: white;
   padding: 25px 0;
 }
